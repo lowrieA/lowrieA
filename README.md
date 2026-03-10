@@ -1,14 +1,12 @@
-# 👤 Personal Academic & Development Portfolio | Borui Hu (Foxx/lowrieA)
+# 👤 Personal Academic & Development Portfolio | lowrieA
 
 ## 📌 Core Personal Info
-- 📛 **Full Name**: Borui Hu
 - 🌐 **Online Alias**: Foxx / lowrieA
 - 🏫 **Current Affiliation**: Second-year Undergraduate in E-Commerce, Management School, Shenzhen University
 - 📊 **GPA**: 3.8/4.5 (Top 5% in Program, as of March 2026)
 - 📍 **Location**: Shenzhen, Guangdong, China | Open to global academic & industry collaborations
 - 🐦 **X (Twitter)**: [@foxx0618AA](https://x.com/foxx0618AA)
-- 📧 **Email**: borui.hu@example.com
-- 💼 **LinkedIn**: [linkedin.com/in/borui-hu](https://linkedin.com/in/borui-hu)
+- 📧 **Email**: 2964547170@qq.com
 - 🎯 **Core Application Target**: Master’s Programs in **Business Analytics (BA)**, Supply Chain Management, and E-Commerce at top Hong Kong universities (HKU, CUHK, HKUST)
 
 ---
@@ -96,17 +94,14 @@ All projects are fully open-source. You are welcome to fork, star, or submit pul
 *Note: Replace placeholder links (GitHub, socials, email) with your actual details before publishing.*
 
 
-# 👤 个人学术与发展作品集 | 胡博睿 (Foxx/lowrieA)
+# 👤 个人学术与发展作品集 | lowrieA
 
 ## 📌 核心个人信息
-- 📛 **姓名**：胡博睿
 - 🌐 **网名**：Foxx / lowrieA
 - 🏫 **当前身份**：深圳大学管理学院 电子商务专业 本科二年级
-- 📊 **绩点**：3.8/4.0（截至2026年3月，专业排名前15%）
+- 📊 **绩点**：3.8/4.5（截至2026年3月，专业排名前5%）
 - 📍 **所在地**：中国广东省深圳市 | 开放全球学术与产业合作
-- 🐦 **X (Twitter)**：[@foxx0618AA](https://x.com/foxx0618AA)
-- 📧 **邮箱**：borui.hu@example.com
-- 💼 **领英**：[linkedin.com/in/borui-hu](https://linkedin.com/in/borui-hu)
+- 📧 **邮箱**：2964547170@qq.com
 - 🎯 **核心申请目标**：香港顶尖院校（香港大学、香港中文大学、香港科技大学）**商业分析（BA）**、供应链管理、电子商务方向硕士项目
 
 ---
