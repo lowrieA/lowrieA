@@ -88,13 +88,10 @@ All projects are fully open-source. You are welcome to fork, star, or submit pul
 
 ---
 
-*P.S. If you made it this far, here’s a fun logistics meme to brighten your day — supply chain can be cool too! 🚚*
-
 **Last Updated**: March 10, 2026  
-*Note: Replace placeholder links (GitHub, socials, email) with your actual details before publishing.*
 
 
-# 👤 个人学术与发展作品集 | lowrieA
+# 👤 GITHUB作品集 | lowrieA
 
 ## 📌 核心个人信息
 - 🌐 **网名**：Foxx / lowrieA
@@ -183,7 +180,4 @@ Web开发（React、Node.js、Flask）、区块链（以太坊、智能合约基
 
 ---
 
-*P.S. 如果你看到了这里，送你一张有趣的物流梗图开心一下——供应链也可以很酷！🚚*
-
 **最后更新**：2026年3月10日  
-*备注：发布前请将占位链接（GitHub、社交账号、邮箱）替换为你的实际信息。*
